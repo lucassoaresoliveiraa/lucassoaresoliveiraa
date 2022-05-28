@@ -24,6 +24,9 @@
 <a href="https://www.linkedin.com/in/lucas-soares-de-oliveira-a4b6a0217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 <img align="left" alt="Lucas-pic" height="150" style="border-radius:50px;"                src="https://c.tenor.com/YvyXMN2cJmUAAAAj/babyyoda.gif">
-  </div>
+ 
   
+  
+   ![Snake animation](https://github.com/lucassoaresoliveiraa/lucassoaresoliveiraa/blob/output/github-contribution-grid-snake.svg)
+  </div>
   
