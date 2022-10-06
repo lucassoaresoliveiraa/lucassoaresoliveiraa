@@ -20,8 +20,7 @@
 <a href="https://www.instagram.com/lucas_soares.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.ssoares.oliveiira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-soares-de-oliveira-a4b6a0217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-<img align="left" alt="Lucas-pic" height="150" style="border-radius:50px;"                src="https://c.tenor.com/YvyXMN2cJmUAAAAj/babyyoda.gif">
+
  
   
   
