@@ -1,4 +1,4 @@
-#### Olá, meu nome é Junior Braga e sou um desenvolvedor no começo da carreira! 💡
+#### Hello, my name is Lucas Soares and I currently work in the software developer area! 💡
 <div align="center">
   <a href="https://github.com/lucassoaresoliveiraa">
 </div>
