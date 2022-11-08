@@ -44,12 +44,11 @@
 <a href="https://www.linkedin.com/in/lucas-soares-de-oliveira-a4b6a0217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ## Education📚
-    <div style='display: inline_block'>
+    <div>
   <img align='center' src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white'/>
   <img align='center' src='https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white'/>
   <img align='center' src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
-    </div>
-    <div>
+
    ![Snake animation](https://github.com/lucassoaresoliveiraa/lucassoaresoliveiraa/blob/output/github-contribution-grid-snake.svg)
   </div>
   
