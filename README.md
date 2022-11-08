@@ -19,12 +19,13 @@
   <img align='center' src='https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
   <img align='center' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
  </div>
+     ### Stats 📶
+
    <div align="left">
   <a href="https://github.com/lucassoaresoliveiraa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresoliveiraa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
- ### Stats 📶
 
 ![Lucas Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=radical)
 
