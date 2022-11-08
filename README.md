@@ -1,19 +1,33 @@
-## 🤖 Hello!!! My name is Lucas and welcome my profile...
+#### Olá, meu nome é Junior Braga e sou um desenvolvedor no começo da carreira! 💡
 <div align="center">
   <a href="https://github.com/lucassoaresoliveiraa">
 </div>
-  
-  #
-  <div align="left">
+  <div style="display: inline_block"><br>
+
+###### Contato: lucas.ssoares.oliveiira@gmail.com
+
+### Trabalhando atualmente com ✍️ 
+<div style='display: inline_block'>
+  <img align='center' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img align='center' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img align='center' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+  <img align='center' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black'/>
+  <img align='center' src='https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
+  <img align='center' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+ </div>
+   <div align="left">
   <a href="https://github.com/lucassoaresoliveiraa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresoliveiraa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-J" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ ### Stats 📶
+
+![Lucas Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=radical)
+
     
   
 </div>
