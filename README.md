@@ -4,7 +4,7 @@
 </div>
   <div style="display: inline_block"><br>
 
-###### Contato: lucas.ssoares.oliveiira@gmail.com
+
 
 ### Working with ✍️ 
 <div style='display: inline_block'>
