@@ -1,4 +1,4 @@
-#### Hello, my name is Lucas Soares and I currently work in the software developer area! 💡
+#### Hello, my name is Lucas and I currently work in the software developer area! 💡
 <div align="center">
   <a href="https://github.com/lucassoaresoliveiraa">
 </div>
