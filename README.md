@@ -43,14 +43,12 @@
 
   <div  align="center"> 
   <h1 align="center">How to reach me:</h1>
-      <a href = "(https://www.linkedin.com/in/lucas-soares-de-oliveira-a4b6a0217/)">
-       <img align="center" height="30" width="40" alt="link-icon" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-    </a>
-    <a href = "(https://www.instagram.com/lucas.oliveira_soares/)">
-      <img align="center" height="30" width="40" alt="gmail-icon" 
-      src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1">
-    </a>
+     <a href="https://www.linkedin.com/in/lucas-soares-de-oliveira-a4b6a0217/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+    <a href="https://instagram.com/lucas.soares_oliveira" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-lucas-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 </div>
   
 ![Snake animation](https://github.com/lucassoaresoliveiraa/lucassoaresoliveiraa/blob/output/github-contribution-grid-snake.svg)
