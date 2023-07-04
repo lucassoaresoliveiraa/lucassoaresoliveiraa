@@ -2,13 +2,13 @@
 
 - 🔥 Web Developer & Always looking to understand and improve in new technologies!
 
-- 🔭 I’m currently working at looking for new experience.
+- 🔭 Looking for new experience.
 
 - 💬 Ask me about **JavaScript and PHP**
   
-- 🎓 I'm currently studying Science of Computing at Estacio de Sá.
+- 🎓 I'm currently studying **Science of Computing** at Estacio de Sá.
   
-- :iphone: Currently studying Kotlin for the development of personal projects.
+- :iphone: Currently studying **Kotlin** for the development of personal projects.
 
 <div>
   
