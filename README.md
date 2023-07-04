@@ -14,13 +14,12 @@
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresoliveiraa&layout=compact&langs_count=16&theme=great-gatsby"/>
-<img align="left" height="250" alt="coding-time" src="code.gif">
 </div>
+<img align="left" height="300" alt="coding-time" src="code.gif">
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif"">
     <h1 align="center">Skills</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,9 +31,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-   </div>
-    
-  <div  align="center"> 
+ 
   <h1 align="center">What I'm learning</h1>
    <img align="center" height="30" width="40" alt="kotlin-icon" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
