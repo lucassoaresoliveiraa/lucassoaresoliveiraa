@@ -39,6 +39,8 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
       <img align="center" height="30" width="40" alt="fire-icon" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+       <img align="center" height="30" width="40" alt="node-icon" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
   <div  align="center"> 
