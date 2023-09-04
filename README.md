@@ -33,8 +33,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  
   <h1 align="center">What I'm learning</h1>
-   <img align="center" height="30" width="40" alt="react-icon" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" height="30" width="40" alt="linux-icon" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
       <img align="center" height="30" width="40" alt="fire-icon" 
