@@ -1,6 +1,6 @@
 ## I'm Lucas Soares!
 
-- 🔥 Web Developer & Always looking to understand and improve in new technologies!
+- 🔥 Back-End Developer & Always looking to understand and improve in new technologies!
 
 - 🔭 Looking for new experience.
 
@@ -8,7 +8,7 @@
   
 - 🎓 I'm currently studying **Science of Computing** at Estacio de Sá.
   
-- :iphone: Currently studying **React Native** for the development of personal projects.
+- :iphone: Currently studying **React Native** and **Node.JS** for the development of personal projects.
 
 <div>
   
