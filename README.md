@@ -2,7 +2,7 @@
 
 - 🔥 Back-End Developer & Always looking to understand and improve in new technologies!
 
-- 🔭 Looking for new experience.
+- 🔭 Working as a Back End developer at [Orbesoft](https://www.orbesoft.com.br/)
 
 - 💬 Ask me about **JavaScript and PHP**
   
@@ -52,3 +52,4 @@
 </div>
   
 ![Snake animation](https://github.com/lucassoaresoliveiraa/lucassoaresoliveiraa/blob/output/github-contribution-grid-snake.svg)
+
