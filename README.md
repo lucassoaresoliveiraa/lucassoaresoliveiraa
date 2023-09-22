@@ -16,7 +16,7 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=dracula"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=dracula&hide=stars,prscontribs"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresoliveiraa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <!-- <img align="left" height="300" alt="coding-time" src="code.gif"> -->
