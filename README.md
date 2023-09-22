@@ -10,12 +10,16 @@
   
 - :iphone: Currently studying **React Native** and **Node.JS** for the development of personal projects.
 
+ 
+    ## STATS
+  
+
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresoliveiraa&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresoliveiraa&show_icons=true&theme=dracula"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresoliveiraa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<img align="left" height="300" alt="coding-time" src="code.gif">
+<!-- <img align="left" height="300" alt="coding-time" src="code.gif"> -->
 <br>
 
 <div  align="center"> 
