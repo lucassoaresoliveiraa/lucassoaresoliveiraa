@@ -4,11 +4,11 @@
 
 - 🔭 Working as a Back End developer at [Orbesoft](https://www.orbesoft.com.br/)
 
-- 💬 Ask me about **JavaScript and PHP**
+- 💬 Ask me about **JavaScript and TypeScript**
   
 - 🎓 I'm currently studying **Science of Computing** at Estacio de Sá.
   
-- :iphone: Currently studying **React Native** and **Node.JS** for the development of personal projects.
+- :iphone: Currently studying **Jest(unit test)** and **Node.JS**.
 
  
     ## STATS
