@@ -8,7 +8,7 @@
   
 - 🎓 I'm currently studying **Science of Computing** at Estacio de Sá.
   
-- :iphone: Currently studying **Jest(unit test)** and **Node.JS**.
+- :iphone: Currently studying **Jest (unit test)** and **Node.JS**.
 
  
     ## STATS
