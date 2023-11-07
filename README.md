@@ -48,9 +48,6 @@
      <a href="https://www.linkedin.com/in/lucas-soares-de-oliveira-a4b6a0217/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-    <a href="https://instagram.com/lucas.soares_oliveira" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucas-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </div>
   
 ![Snake animation](https://github.com/lucassoaresoliveiraa/lucassoaresoliveiraa/blob/output/github-contribution-grid-snake.svg)
