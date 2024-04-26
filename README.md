@@ -13,10 +13,6 @@
  
     ## STATS
   
-
-<div>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresoliveiraa&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 <!-- <img align="left" height="300" alt="coding-time" src="code.gif"> -->
 <br>
 
