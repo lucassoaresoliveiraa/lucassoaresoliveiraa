@@ -2,7 +2,7 @@
 
 - 🔥 DevOps & Always looking to understand and improve in new technologies!
 
-- 🔭 Working as a Back End developer at [4linux]([https://4linux.com.br/])
+- 🔭 Working as a Back End developer at [4Linux](https://4linux.com.br/)
 
 - 💬 Ask me about **JavaScript and TypeScript**
   
